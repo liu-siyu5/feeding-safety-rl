@@ -1,0 +1,27 @@
+# Unity player build (~2 GB of binaries). Rebuild it instead of committing it:
+# see "Setup" in README.md. Keep FeedingBuild/ locally; it is not tracked.
+FeedingBuild/
+
+# Python
+__pycache__/
+*.pyc
+
+# Pre-project-structure exploratory artifacts (superseded by models/, results/,
+# snapshots/; kept on disk locally, not part of the tracked history).
+/log_*.txt
+/logs_*.txt
+/ppo_noshield_150k.zip
+/ppo_v2_test.zip
+/smoke.zip
+/smoke_vecnorm.pkl
+/smoke_ckpt/
+/eval_noshield_smoke.csv
+/eval_noshield_smoke_raw.json
+/reachability_result.json
+/train_feeding_ppo_paper.py
+/backup/
+/tb/
+
+# Editor / OS
+.vscode/
+.DS_Store

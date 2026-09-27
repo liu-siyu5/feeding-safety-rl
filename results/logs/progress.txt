@@ -1,0 +1,72 @@
+grid start 2026-09-26 02:19:50
+start C4_seed0 2026-09-26 02:19:50
+start C4_seed1 2026-09-26 02:19:50
+start C4_seed2 2026-09-26 02:19:50
+start C1_seed0 2026-09-26 02:19:50
+start C3_seed0 2026-09-26 02:19:50
+start C2_lam0.5_seed0 2026-09-26 02:19:50
+start C2_lam0.05_seed0 2026-09-26 02:19:50
+done C4_seed1 rc=0 2026-09-26 04:07:01
+start C2_lam0.005_seed0 2026-09-26 04:07:01
+done C2_lam0.5_seed0 rc=0 2026-09-26 04:08:33
+start C2_lam5_seed0 2026-09-26 04:08:33
+done C4_seed2 rc=0 2026-09-26 04:09:23
+start C1_seed1 2026-09-26 04:09:23
+done C4_seed0 rc=0 2026-09-26 04:09:55
+start C3_seed1 2026-09-26 04:09:55
+done C3_seed0 rc=0 2026-09-26 04:17:47
+start C2_lam0.5_seed1 2026-09-26 04:17:47
+done C1_seed0 rc=0 2026-09-26 04:34:33
+start C2_lam0.05_seed1 2026-09-26 04:34:33
+done C2_lam0.05_seed0 rc=0 2026-09-26 04:36:06
+start C2_lam0.005_seed1 2026-09-26 04:36:06
+done C2_lam5_seed0 rc=0 2026-09-26 05:56:30
+start C2_lam5_seed1 2026-09-26 05:56:30
+done C3_seed1 rc=0 2026-09-26 06:11:19
+start C1_seed2 2026-09-26 06:11:19
+done C1_seed1 rc=0 2026-09-26 06:19:13
+start C3_seed2 2026-09-26 06:19:13
+done C2_lam0.5_seed1 rc=0 2026-09-26 06:19:36
+start C2_lam0.5_seed2 2026-09-26 06:19:36
+done C2_lam0.005_seed0 rc=0 2026-09-26 06:24:53
+start C2_lam0.05_seed2 2026-09-26 06:24:53
+done C2_lam0.05_seed1 rc=0 2026-09-26 06:40:42
+start C2_lam0.005_seed2 2026-09-26 06:40:42
+done C2_lam0.005_seed1 rc=0 2026-09-26 06:50:33
+start C2_lam5_seed2 2026-09-26 06:50:33
+done C2_lam5_seed1 rc=0 2026-09-26 07:39:02
+done C3_seed2 rc=0 2026-09-26 08:12:14
+done C2_lam0.5_seed2 rc=0 2026-09-26 08:14:35
+done C1_seed2 rc=0 2026-09-26 08:17:29
+done C2_lam0.05_seed2 rc=0 2026-09-26 08:23:57
+done C2_lam5_seed2 rc=0 2026-09-26 08:28:45
+done C2_lam0.005_seed2 rc=0 2026-09-26 08:36:34
+grid done 2026-09-26 08:36:36
+grid start results/logs/jobs_horizontal.txt x6 2026-09-26 11:16:03
+start C4_seed0 2026-09-26 11:16:03
+start C4_seed1 2026-09-26 11:16:03
+start C4_seed2 2026-09-26 11:16:03
+start C3_seed0 2026-09-26 11:16:03
+start C3_seed1 2026-09-26 11:16:03
+start C3_seed2 2026-09-26 11:16:03
+done C4_seed2 rc=0 2026-09-26 12:59:53
+done C3_seed0 rc=0 2026-09-26 13:00:36
+done C3_seed2 rc=0 2026-09-26 13:01:00
+done C4_seed1 rc=0 2026-09-26 13:01:28
+done C4_seed0 rc=0 2026-09-26 13:03:00
+done C3_seed1 rc=0 2026-09-26 13:05:48
+grid done results/logs/jobs_horizontal.txt 2026-09-26 13:05:51
+grid start results/logs/jobs_margin.txt x6 2026-09-26 15:38:19
+start C4_seed0 2026-09-26 15:38:19
+start C4_seed1 2026-09-26 15:38:19
+start C4_seed2 2026-09-26 15:38:19
+start C3_seed0 2026-09-26 15:38:19
+start C3_seed1 2026-09-26 15:38:19
+start C3_seed2 2026-09-26 15:38:19
+done C3_seed0 rc=0 2026-09-26 17:19:57
+done C4_seed0 rc=0 2026-09-26 17:20:09
+done C4_seed2 rc=0 2026-09-26 17:20:38
+done C4_seed1 rc=0 2026-09-26 17:21:09
+done C3_seed1 rc=0 2026-09-26 17:23:19
+done C3_seed2 rc=0 2026-09-26 17:23:40
+grid done results/logs/jobs_margin.txt 2026-09-26 17:23:43

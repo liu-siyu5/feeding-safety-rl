@@ -1,0 +1,12 @@
+# Direct dependencies, pinned to the versions this project was developed and
+# evaluated with (Python 3.10, conda env `rcareworld`). Install pyrcareworld
+# separately from source first (see README.md, Setup) — it is not on PyPI.
+stable-baselines3==2.9.0
+gymnasium==1.3.0
+numpy==2.2.5
+scipy==1.15.3
+torch==2.13.0
+roboticstoolbox-python==1.4.2
+spatialmath-python==1.1.17
+matplotlib==3.10.9
+pandas==2.3.3

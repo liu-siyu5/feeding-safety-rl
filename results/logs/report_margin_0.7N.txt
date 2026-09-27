@@ -1,0 +1,15 @@
+
+Mean +- std across seeds
+
+condition        seeds   success %    peak F (N)    danger %     impulse    shield %
+------------------------------------------------------------------------------------
+C1                   3     0.0+-0.0    13.91+-0.32   73.08+-1.39       6.248        0.00
+C2_lam0.005          3     0.0+-0.0    13.59+-0.63   74.10+-1.64       6.173        0.00
+C2_lam0.05           3     1.0+-0.8    12.26+-0.78   64.55+-7.72       5.376        0.00
+C2_lam0.5            3    52.3+-37.2     5.27+-3.37    0.91+-0.82       7.317        0.00
+C2_lam5              3     0.0+-0.0     1.59+-2.24    0.00+-0.00       2.816        0.00
+C3                   3    74.0+-30.4     9.57+-0.88    1.05+-1.11       9.230        3.31
+C4                   3   100.0+-0.0     9.17+-0.19    0.00+-0.00       4.179       90.26
+
+trade-off data written to results/tradeoff.json
+Plot: success rate on x, peak contact force on y. The C2 lambdas trace a curve; C1, C3 and C4 are single points. A shielded condition beats the penalty class only if it lies outside that curve.

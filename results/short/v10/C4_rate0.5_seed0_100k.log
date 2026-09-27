@@ -1,0 +1,14 @@
+Waiting for connections on port: 7401...
+Connected successfully
+[  10000 steps,    50 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.160 m | approach   8.6 deg | tilt  10.2 deg | pitch  -1.0 deg | off centre  8.1 cm | peak F  0.0 N | length 200.0
+[  20000 steps,   100 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.131 m | approach   7.8 deg | tilt  11.8 deg | pitch  -2.0 deg | off centre  5.5 cm | peak F  0.0 N | length 200.0
+[  30000 steps,   150 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.121 m | approach  10.9 deg | tilt  16.0 deg | pitch  -2.5 deg | off centre  5.4 cm | peak F  0.0 N | length 200.0
+[  40000 steps,   200 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.105 m | approach  10.1 deg | tilt  14.0 deg | pitch  -5.5 deg | off centre  4.5 cm | peak F  0.0 N | length 200.0
+[  50000 steps,   250 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.103 m | approach  11.0 deg | tilt  16.6 deg | pitch  -5.8 deg | off centre  3.7 cm | peak F  0.0 N | length 200.0
+[  60000 steps,   300 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.077 m | approach   9.0 deg | tilt   9.9 deg | pitch  -3.3 deg | off centre  3.3 cm | peak F  0.1 N | length 200.0
+[  70000 steps,   350 episodes] last 50: success   0.0% | within 3 cm   2.0% | min dist 0.056 m | approach   5.9 deg | tilt   8.1 deg | pitch  -3.5 deg | off centre  2.7 cm | peak F  0.2 N | length 200.0
+[  79746 steps,   400 episodes] last 50: success   6.0% | within 3 cm  14.0% | min dist 0.043 m | approach   4.8 deg | tilt   6.6 deg | pitch  -3.1 deg | off centre  2.3 cm | peak F  1.5 N | length 194.9
+[  88797 steps,   450 episodes] last 50: success  22.0% | within 3 cm  32.0% | min dist 0.036 m | approach   5.1 deg | tilt   9.2 deg | pitch  -3.2 deg | off centre  1.8 cm | peak F  3.2 N | length 181.0
+[  97434 steps,   500 episodes] last 50: success  28.0% | within 3 cm  46.0% | min dist 0.032 m | approach   4.8 deg | tilt   7.9 deg | pitch  -2.7 deg | off centre  1.8 cm | peak F  4.5 N | length 172.7
+trained 100000 steps in 14.5 min -> models/short/C4_rate0.5_seed0_100k.zip
+evaluation, 20 deterministic episodes: success  75.0% | within 3 cm  95.0% | min dist 0.028 m | approach   3.7 deg | tilt   9.8 deg | pitch  -3.1 deg | off centre  1.3 cm | peak F  6.1 N | length  70.8

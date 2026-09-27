@@ -1,0 +1,28 @@
+{
+  "verdict": "UNREACHABLE",
+  "best_distance_m": 0.14264287630081918,
+  "best_joints_deg": [
+    124.2799,
+    114.0161,
+    -9.5084,
+    84.7294,
+    -3.9027,
+    -139.1247,
+    -167.9273
+  ],
+  "force_at_best_N": 0.0,
+  "success_threshold_m": 0.03,
+  "uniform_best_m": 0.14264287630081918,
+  "cem_best_m": 0.2629006260079578,
+  "uniform_min_m": 0.14264287630081918,
+  "uniform_median_m": 0.9870672230814792,
+  "n_evaluations": 4905,
+  "elapsed_min": 2.456251625219981,
+  "init_pose_distance_m": 0.8214362232559345,
+  "mouth_position": [
+    0.26038190722465515,
+    0.8993822336196899,
+    -0.548424482345581
+  ],
+  "seed": 0
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "condition": "C1",
+    "success": 0.0,
+    "success_std": 0.0,
+    "peak_force": 13.90833724836876,
+    "peak_force_std": 0.31604882513111526
+  },
+  {
+    "condition": "C2_lam0.005",
+    "success": 0.0,
+    "success_std": 0.0,
+    "peak_force": 13.589035334927578,
+    "peak_force_std": 0.631140591169263
+  },
+  {
+    "condition": "C2_lam0.05",
+    "success": 0.01,
+    "success_std": 0.008164965809277261,
+    "peak_force": 12.26265060520562,
+    "peak_force_std": 0.7801592782507396
+  },
+  {
+    "condition": "C2_lam0.5",
+    "success": 0.5233333333333333,
+    "success_std": 0.37187214051188194,
+    "peak_force": 5.266442590698844,
+    "peak_force_std": 3.3707916318308593
+  },
+  {
+    "condition": "C2_lam5",
+    "success": 0.0,
+    "success_std": 0.0,
+    "peak_force": 1.5891171014667653,
+    "peak_force_std": 2.235000489341245
+  },
+  {
+    "condition": "C3",
+    "success": 0.7399999999999999,
+    "success_std": 0.3043024810940588,
+    "peak_force": 9.569319526857855,
+    "peak_force_std": 0.8807396772608826
+  },
+  {
+    "condition": "C4",
+    "success": 1.0,
+    "success_std": 0.0,
+    "peak_force": 9.167557744143037,
+    "peak_force_std": 0.19263377838660725
+  }
+]

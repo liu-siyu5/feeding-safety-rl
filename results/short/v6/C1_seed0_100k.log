@@ -1,0 +1,14 @@
+Waiting for connections on port: 7101...
+Connected successfully
+[   9968 steps,    50 episodes] last 50: success   2.0% | within 3 cm   6.0% | min dist 0.117 m | approach  10.0 deg | tilt  14.7 deg | off centre  6.3 cm | peak F  0.4 N | length 199.4
+[  19968 steps,   100 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.137 m | approach   8.8 deg | tilt  12.9 deg | off centre  6.3 cm | peak F  0.0 N | length 200.0
+[  29968 steps,   150 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.139 m | approach  10.2 deg | tilt  15.4 deg | off centre  5.3 cm | peak F  0.0 N | length 200.0
+[  39968 steps,   200 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.131 m | approach   9.7 deg | tilt  11.1 deg | off centre  4.6 cm | peak F  0.0 N | length 200.0
+[  49968 steps,   250 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.140 m | approach   9.5 deg | tilt  15.9 deg | off centre  5.7 cm | peak F  0.0 N | length 200.0
+[  59968 steps,   300 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.143 m | approach  10.0 deg | tilt  18.3 deg | off centre  6.0 cm | peak F  0.0 N | length 200.0
+[  69968 steps,   350 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.145 m | approach   9.0 deg | tilt  12.7 deg | off centre  5.0 cm | peak F  0.0 N | length 200.0
+[  79802 steps,   400 episodes] last 50: success   2.0% | within 3 cm   2.0% | min dist 0.130 m | approach  16.0 deg | tilt  17.4 deg | off centre  5.4 cm | peak F  0.1 N | length 196.7
+[  89802 steps,   450 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.132 m | approach  16.1 deg | tilt  18.8 deg | off centre  5.9 cm | peak F  0.0 N | length 200.0
+[  99802 steps,   500 episodes] last 50: success   0.0% | within 3 cm   0.0% | min dist 0.125 m | approach  14.7 deg | tilt  17.0 deg | off centre  5.1 cm | peak F  0.2 N | length 200.0
+trained 100000 steps in 13.8 min -> models/short/C1_seed0_100k.zip
+evaluation, 20 deterministic episodes: success   0.0% | within 3 cm   0.0% | min dist 0.159 m | approach   5.2 deg | tilt   4.1 deg | off centre  4.3 cm | peak F  0.0 N | length 200.0

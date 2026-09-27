@@ -1,0 +1,31 @@
+Waiting for connections on port: 6302...
+Connected successfully
+/home/sophia/miniconda3/envs/rcareworld/lib/python3.10/site-packages/stable_baselines3/common/on_policy_algorithm.py:150: UserWarning: You are trying to run PPO on the GPU, but it is primarily intended to run on the CPU when not using a CNN policy (you are using ActorCriticPolicy which should be a MlpPolicy). See https://github.com/DLR-RM/stable-baselines3/issues/1245 for more info. You can pass `device='cpu'` or `export CUDA_VISIBLE_DEVICES=` to force using the CPU.Note: The model will train, but the GPU utilization will be poor and the training might take longer than on CPU.
+  warnings.warn(
+  10/100 episodes
+  20/100 episodes
+  30/100 episodes
+  40/100 episodes
+  50/100 episodes
+  60/100 episodes
+  70/100 episodes
+  80/100 episodes
+  90/100 episodes
+  100/100 episodes
+
+==============================================================
+C3_seed1  (100 episodes)
+==============================================================
+  success rate            :   94.0 %
+  held (ignoring safety)  :   99.0 %
+  reached (ignoring safety):  100.0 %
+  peak contact force      :   9.21 N
+  mean contact force      :   5.37 N
+  comfort violation rate  :  63.08 %
+  danger violation rate   :   0.32 %
+  force impulse           :  4.907 N*s
+  shield rate             :   3.24 %
+  mean correction         : 1.6689
+  min distance            : 0.0216 m
+==============================================================
+saved results/C3_seed1.json
